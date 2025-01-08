@@ -1,0 +1,25 @@
+.roboto-bold {
+    font-family: "Roboto", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  .roboto-medium {
+    font-family: "Roboto", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  footer {
+    background-color: blue;
+    
+    padding: 10px;
+
+  }
+  h1 {
+color: red;
+
+  }
+  
+
+  
